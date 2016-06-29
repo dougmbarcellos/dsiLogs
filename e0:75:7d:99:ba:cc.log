@@ -50,3 +50,57 @@ drwxr-xr-x 5 douglas users 4096 Jun 28 15:16 src
 [FIM da Leitura do Terminal]
  =======================\ DELIMITER \======================= 
 
+Data: [2016-06-29]
+Comando: [ls -l]
+
+[INICIO da Leitura do Terminal]
+
+total 12
+drwxr-xr-x 5 douglas users 4096 Jun 29 15:00 bin
+drwxr-xr-x 2 douglas users 4096 Jun 29 13:42 lib
+drwxr-xr-x 5 douglas users 4096 Jun 28 15:16 src
+
+[FIM da Leitura do Terminal]
+ =======================\ DELIMITER \======================= 
+
+Data: [2016-06-29]
+Comando: [ls -ll]
+
+[INICIO da Leitura do Terminal]
+
+total 12
+drwxr-xr-x 5 douglas users 4096 Jun 29 15:00 bin
+drwxr-xr-x 2 douglas users 4096 Jun 29 13:42 lib
+drwxr-xr-x 5 douglas users 4096 Jun 28 15:16 src
+
+[FIM da Leitura do Terminal]
+ =======================\ DELIMITER \======================= 
+
+Data: [2016-06-29]
+Comando: [ls -uwhdo]
+
+[INICIO da Leitura do Terminal]
+
+
+[FIM da Leitura do Terminal]
+ =======================\ DELIMITER \======================= 
+
+Data: [2016-06-29]
+Comando: [dia]
+
+[INICIO da Leitura do Terminal]
+
+
+[FIM da Leitura do Terminal]
+ =======================\ DELIMITER \======================= 
+
+Data: [2016-06-29]
+Comando: [pwd]
+
+[INICIO da Leitura do Terminal]
+
+/home/douglas/workspace android/ServidorDSI
+
+[FIM da Leitura do Terminal]
+ =======================\ DELIMITER \======================= 
+
