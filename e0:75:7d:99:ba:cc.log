@@ -62,3 +62,15 @@ src
 [FIM da Leitura do Terminal]
  =======================\ DELIMITER \======================= 
 
+Data: [2016-06-29]
+Comando: [ls]
+
+[INICIO da Leitura do Terminal]
+
+bin
+lib
+src
+
+[FIM da Leitura do Terminal]
+ =======================\ DELIMITER \======================= 
+
