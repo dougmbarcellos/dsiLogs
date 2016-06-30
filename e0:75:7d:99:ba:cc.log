@@ -131,3 +131,88 @@ Comando: [firefox www.github.com]
 [FIM da Leitura do Terminal]
  =======================\ DELIMITER \======================= 
 
+Data: [2016-06-29]
+Comando: [steam]
+
+[INICIO da Leitura do Terminal]
+
+Slackware 32-bit: Check the 'deps/<slackwareversion>' directory where you downloaded this package and install/upgrade the packages you find there.
+Slackware 64-bit multilib: Install/upgrade the packages in the 'deps/<slackwareversion>/multilib' subdirectory instead.
+
+Running Steam on slackware 14.1 32-bit
+STEAM_RUNTIME is enabled automatically
+Installing breakpad exception handler for appid(steam)/version(1459463254)
+Installing breakpad exception handler for appid(steam)/version(1459463254)
+Fontconfig error: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 70: non-double matrix element
+Fontconfig error: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 70: non-double matrix element
+Fontconfig warning: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 78: saw unknown, expected number
+Installing breakpad exception handler for appid(steam)/version(1459463254)
+[0629/202048:ERROR:main_delegate.cc(777)] Could not load cef_extensions.pak
+[0629/202048:ERROR:browser_main_loop.cc(203)] Running without the SUID sandbox! See https://code.google.com/p/chromium/wiki/LinuxSUIDSandboxDevelopment for more information on developing with the sandbox on.
+Installing breakpad exception handler for appid(steamwebhelper)/version(20160331191033)
+Installing breakpad exception handler for appid(steamwebhelper)/version(1459451433)
+[0629/202048:ERROR:main_delegate.cc(777)] Could not load cef_extensions.pak
+Installing breakpad exception handler for appid(steam)/version(1459463254)
+Installing breakpad exception handler for appid(steam)/version(1459463254)
+Installing breakpad exception handler for appid(steam)/version(1459463254)
+Installing breakpad exception handler for appid(steam)/version(1459463254)
+Installing breakpad exception handler for appid(steam)/version(1459463254)
+Installing breakpad exception handler for appid(steam)/version(1459463254)
+Created shared memory when not owner SteamController_Shared_mem
+[0629/202050:INFO:audio_manager_pulse.cc(257)] Failed to connect to the context.  Error: Connection refused
+Installing breakpad exception handler for appid(steam)/version(1459463254)
+Installing breakpad exception handler for appid(steam)/version(1459463254)
+PulseAudio connect failed (used only for Mic Volume Control) with error: Access denied
+
+** (steam:8535): WARNING **: Could not initialize NMClient /org/freedesktop/NetworkManager: The name org.freedesktop.NetworkManager was not provided by any .service files
+Installing breakpad exception handler for appid(steamwebhelper)/version(20160331191033)
+Installing breakpad exception handler for appid(steamwebhelper)/version(1459463254)
+Installing breakpad exception handler for appid(steamwebhelper)/version(1459463254)
+Installing breakpad exception handler for appid(steam)/version(1459463254)
+Generating new string page texture 2: 48x256, total string texture memory is 49,15 KB
+Generating new string page texture 3: 256x256, total string texture memory is 311,30 KB
+
+(steam:8535): Gtk-WARNING **: Não foi possível localizar a ferramenta de temas no module_path: "oxygen-gtk",
+
+(steam:8535): Gtk-WARNING **: Não foi possível localizar a ferramenta de temas no module_path: "oxygen-gtk",
+Installing breakpad exception handler for appid(steam)/version(1459463254)
+Generating new string page texture 5: 128x256, total string texture memory is 442,37 KB
+Generating new string page texture 6: 32x256, total string texture memory is 475,14 KB
+Generating new string page texture 7: 384x256, total string texture memory is 868,35 KB
+process 8535: The last reference on a connection was dropped without closing the connection. This is a bug in an application. See dbus_connection_unref() documentation for details.
+Most likely, the application was supposed to call dbus_connection_close(), since this is a private connection.
+[2016-06-29 20:20:41] Startup - updater built Mar 31 2016 19:10:48
+[2016-06-29 20:20:42] Verifying installation...
+[2016-06-29 20:20:42] Verification complete
+[2016-06-29 20:21:13] Shutdown
+
+[FIM da Leitura do Terminal]
+ =======================\ DELIMITER \======================= 
+
+Data: [2016-06-29]
+Comando: [emacs]
+
+[INICIO da Leitura do Terminal]
+
+
+[FIM da Leitura do Terminal]
+ =======================\ DELIMITER \======================= 
+
+Data: [2016-06-29]
+Comando: [firefox]
+
+[INICIO da Leitura do Terminal]
+
+
+[FIM da Leitura do Terminal]
+ =======================\ DELIMITER \======================= 
+
+Data: [2016-06-29]
+Comando: [firefox www.facebook.com]
+
+[INICIO da Leitura do Terminal]
+
+
+[FIM da Leitura do Terminal]
+ =======================\ DELIMITER \======================= 
+
