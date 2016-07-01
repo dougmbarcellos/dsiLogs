@@ -216,3 +216,129 @@ Comando: [firefox www.facebook.com]
 [FIM da Leitura do Terminal]
  =======================\ DELIMITER \======================= 
 
+Data: [2016-06-30]
+Comando: [firefox]
+
+[INICIO da Leitura do Terminal]
+
+1467314959506	FirefoxAccounts	ERROR	Failed to get data from the login manager: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIPKCS11ModuleDB.findSlotByName]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/components/crypto-SDR.js :: LoginManagerCrypto_SDR.prototype._sdrSlot :: line 27"  data: no] Stack trace: LoginManagerCrypto_SDR.prototype._sdrSlot()@resource://gre/components/crypto-SDR.js:27 < LoginManagerCrypto_SDR.prototype.isLoggedIn()@resource://gre/components/crypto-SDR.js:173 < this.LoginManagerStorage_json.prototype.isLoggedIn()@resource://gre/components/storage-json.js:478 < LoginManager.prototype.isLoggedIn()@resource://gre/components/nsLoginManager.js:424 < LoginManagerStorage.prototype._isLoggedIn()@resource://gre/modules/FxAccountsStorage.jsm:475 < LoginManagerStorage.prototype.get<()@resource://gre/modules/FxAccountsStorage.jsm:557 < TaskImpl_run()@resource://gre/modules/Task.jsm:315 < Handler.prototype.process()@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:933 < this.PromiseWalker.walkerLoop()@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:812 < this.PromiseWalker.scheduleWalkerLoop/<()@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746 < Spinner.prototype.observe()@resource://gre/modules/AsyncShutdown.jsm:529
+1467314959506	FirefoxAccounts	ERROR	Failed to get data from the login manager: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIPKCS11ModuleDB.findSlotByName]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/components/crypto-SDR.js :: LoginManagerCrypto_SDR.prototype._sdrSlot :: line 27"  data: no] Stack trace: LoginManagerCrypto_SDR.prototype._sdrSlot()@resource://gre/components/crypto-SDR.js:27 < LoginManagerCrypto_SDR.prototype.isLoggedIn()@resource://gre/components/crypto-SDR.js:173 < this.LoginManagerStorage_json.prototype.isLoggedIn()@resource://gre/components/storage-json.js:478 < LoginManager.prototype.isLoggedIn()@resource://gre/components/nsLoginManager.js:424 < LoginManagerStorage.prototype._isLoggedIn()@resource://gre/modules/FxAccountsStorage.jsm:475 < LoginManagerStorage.prototype.get<()@resource://gre/modules/FxAccountsStorage.jsm:557 < TaskImpl_run()@resource://gre/modules/Task.jsm:315 < Handler.prototype.process()@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:933 < this.PromiseWalker.walkerLoop()@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:812 < this.PromiseWalker.scheduleWalkerLoop/<()@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746 < Spinner.prototype.observe()@resource://gre/modules/AsyncShutdown.jsm:529
+1467314959987	FirefoxAccounts	ERROR	Could not retrieve profile data: {"name":"FxAccountsProfileClientError","code":null,"errno":998,"error":"NETWORK_ERROR","message":"[Exception... \"NS_ERROR_NOT_AVAILABLE\"  nsresult: \"0x80040111 (NS_ERROR_NOT_AVAILABLE)\"  location: \"JS frame :: resource://services-common/rest.js :: onStopRequest :: line 465\"  data: no]"}
+1467314959987	FirefoxAccounts	ERROR	Could not retrieve profile data: {"name":"FxAccountsProfileClientError","code":null,"errno":998,"error":"NETWORK_ERROR","message":"[Exception... \"NS_ERROR_NOT_AVAILABLE\"  nsresult: \"0x80040111 (NS_ERROR_NOT_AVAILABLE)\"  location: \"JS frame :: resource://services-common/rest.js :: onStopRequest :: line 465\"  data: no]"}
+1467314960004	FirefoxAccounts	ERROR	FxA rejecting with error NETWORK_ERROR, details: {"name":"FxAccountsProfileClientError","code":null,"errno":998,"error":"NETWORK_ERROR","message":"[Exception... \"NS_ERROR_NOT_AVAILABLE\"  nsresult: \"0x80040111 (NS_ERROR_NOT_AVAILABLE)\"  location: \"JS frame :: resource://services-common/rest.js :: onStopRequest :: line 465\"  data: no]"}
+1467314960004	FirefoxAccounts	ERROR	FxA rejecting with error NETWORK_ERROR, details: {"name":"FxAccountsProfileClientError","code":null,"errno":998,"error":"NETWORK_ERROR","message":"[Exception... \"NS_ERROR_NOT_AVAILABLE\"  nsresult: \"0x80040111 (NS_ERROR_NOT_AVAILABLE)\"  location: \"JS frame :: resource://services-common/rest.js :: onStopRequest :: line 465\"  data: no]"}
+
+[FIM da Leitura do Terminal]
+ =======================\ DELIMITER \======================= 
+
+Data: [2016-06-30]
+Comando: [dia]
+
+[INICIO da Leitura do Terminal]
+
+
+[FIM da Leitura do Terminal]
+ =======================\ DELIMITER \======================= 
+
+Data: [2016-06-30]
+Comando: [dia]
+
+[INICIO da Leitura do Terminal]
+
+
+[FIM da Leitura do Terminal]
+ =======================\ DELIMITER \======================= 
+
+Data: [2016-06-30]
+Comando: [firefox]
+
+[INICIO da Leitura do Terminal]
+
+
+[FIM da Leitura do Terminal]
+ =======================\ DELIMITER \======================= 
+
+Data: [2016-06-30]
+Comando: [ls]
+
+[INICIO da Leitura do Terminal]
+
+bin
+img
+lib
+src
+
+[FIM da Leitura do Terminal]
+ =======================\ DELIMITER \======================= 
+
+Data: [2016-06-30]
+Comando: [pwd]
+
+[INICIO da Leitura do Terminal]
+
+/home/douglas/workspace android/ServidorDSI
+
+[FIM da Leitura do Terminal]
+ =======================\ DELIMITER \======================= 
+
+Data: [2016-06-30]
+Comando: [firefox]
+
+[INICIO da Leitura do Terminal]
+
+
+[FIM da Leitura do Terminal]
+ =======================\ DELIMITER \======================= 
+
+Data: [2016-06-30]
+Comando: [ls]
+
+[INICIO da Leitura do Terminal]
+
+bin
+img
+lib
+src
+
+[FIM da Leitura do Terminal]
+ =======================\ DELIMITER \======================= 
+
+Data: [2016-06-30]
+Comando: [ls]
+
+[INICIO da Leitura do Terminal]
+
+bin
+img
+lib
+src
+
+[FIM da Leitura do Terminal]
+ =======================\ DELIMITER \======================= 
+
+Data: [2016-06-30]
+Comando: [ls]
+
+[INICIO da Leitura do Terminal]
+
+bin
+img
+lib
+src
+
+[FIM da Leitura do Terminal]
+ =======================\ DELIMITER \======================= 
+
+Data: [2016-06-30]
+Comando: [ls]
+
+[INICIO da Leitura do Terminal]
+
+bin
+img
+lib
+src
+
+[FIM da Leitura do Terminal]
+ =======================\ DELIMITER \======================= 
+
